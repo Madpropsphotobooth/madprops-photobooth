@@ -17,19 +17,16 @@ footer:
   has_subscribe: true
   links:
     - new_window: true
-      text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-    - new_window: true
-      text: Madpropsphotobooth@gmail.com
+      text: 'Email Us '
       url: >-
         mailto:madpropsphotobooth@gmail.com?subject=Interested In Booking An
         Event 
-  logo_img: /images/screen-shot-2019-07-23-at-8.26.52-pm.png
+  logo_img: /images/orange_logo_full.png
   nav_title: Company
   social_title: Community
   subscribe_content: 'Have us at your next event. Sign up now. '
-  subscribe_title: 'HIRE US '
-  tagline: SaaS theme by Stackbit
+  subscribe_title: 'Hire Us '
+  tagline: 'Mad Props Photobooth Co. '
 sass:
   indentWidth: 4
   precision: 10
