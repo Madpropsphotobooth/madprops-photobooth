@@ -1,7 +1,7 @@
 title: 'Mad Props Photo Booth Co. '
 baseurl: /
 permalink: '/:title/'
-palette: blue
+palette: green
 header:
   has_nav: true
   logo_img: /images/screen-shot-2019-07-23-at-8.26.52-pm.png
@@ -23,7 +23,7 @@ footer:
   nav_title: Company
   social_title: Community
   subscribe_content: 'Have us at your next event. Sign up now. '
-  subscribe_title: 'Hire us '
+  subscribe_title: 'HIRE US '
   tagline: SaaS theme by Stackbit
 sass:
   indentWidth: 4
