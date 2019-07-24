@@ -4,7 +4,7 @@ permalink: '/:title/'
 palette: orange
 header:
   has_nav: true
-  logo_img: /images/orange_logo_full.jpg
+  logo_img: /images/orange_logo_long.png
   menu:
     actions:
       - label: 'Contact us '
