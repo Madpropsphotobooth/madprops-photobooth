@@ -1,7 +1,7 @@
 title: 'Mad Props Photo Booth Co. '
 baseurl: /
 permalink: '/:title/'
-palette: green
+palette: orange
 header:
   has_nav: true
   logo_img: /images/screen-shot-2019-07-23-at-8.26.52-pm.png
