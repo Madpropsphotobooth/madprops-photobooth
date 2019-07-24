@@ -8,7 +8,7 @@ sections:
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
-    image: /images/1.jpg
+    image: /images/derksworks-photobooth-004.jpg
     section_id: hero
     title: This Is A Big Hero Headline
     type: heroblock
